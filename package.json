@@ -1,0 +1,22 @@
+{
+  "name": "makingserverfilepractice",
+  "version": "1.0.0",
+  "description": "Making server files until I could code them in my sleep",
+  "main": "serverfile1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcolas673/makingServerFilePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcolas673/makingServerFilePractice/issues"
+  },
+  "homepage": "https://github.com/tcolas673/makingServerFilePractice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -38,7 +38,9 @@
 
 
 // express only
-
+// made 3 different server files in less than 15 minutes
+// and I understand every line and the advantages 
+// and disadvantages of all 3
 const express = require('express');
 
 const app = express();

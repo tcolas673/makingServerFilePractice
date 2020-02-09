@@ -10,7 +10,7 @@ app.use('/fifth', (req, res) => {
 const server = http.createServer(app);
 
 server.listen(3004, (err)=>{
-    if(err){
+    if (err) {
         console.log('Something went wrong');
     }
     console.log('server running');

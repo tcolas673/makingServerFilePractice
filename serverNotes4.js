@@ -27,3 +27,6 @@
 
 // We'll use router.use() to define middleware. This will now be applied to all of the 
 // requests that come into our application for this instance of Router
+
+// const Router = express.Router() => Router.route().get() or Router.get() the difference
+// is that you can set up a chain for other methods using Router.route()

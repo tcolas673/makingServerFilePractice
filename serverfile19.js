@@ -3,7 +3,7 @@ const express = require('express');
 
 const app = express();
 
-const tempHandler = (res, req) => {
+const tempHandler = (req, res) => {
     res.send('maybe it was the dockerfile');
 }
 
